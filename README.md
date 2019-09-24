@@ -4,4 +4,4 @@
 * Entellij or Eclipse 
 
 ## 범위
-* 입출력 ~ GUI
+- [v] 입출력 

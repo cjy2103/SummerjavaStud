@@ -4,4 +4,4 @@
 * Entellij or Eclipse 
 
 ## 범위
-- [v] 입출력 
+- [x] 입출력 
